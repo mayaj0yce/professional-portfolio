@@ -8,7 +8,7 @@ header {
     height: 100px;
     width: 100%;
     /* Sets border to bottom only */
-    border-bottom: 10px solid darkblue;
+    border-bottom: 10px solid darkcyan;
     border-top: 10px solid darkcyan;
     background-color: #6932a8;
   }
@@ -28,4 +28,19 @@ body {
 .header h1 {
     display: inline-block;
     font-size: 48px;
+}
+
+.radical {
+    text-align: center; 
+    color: olive;
+    font-size: 24px; width: 20%;
+    margin: 20px auto;
+    border-bottom: 5px solid darkblue;
+    border-bottom-left-radius: 80%;
+    border-bottom-right-radius: 80%;
+    border-top: 5px solid darkblue;
+    border-top-right-radius: 80%;
+    border-top-left-radius: 80%;
+    background-color: #171817;
+  
 }
