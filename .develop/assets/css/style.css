@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    height: 100px;
+    width: 100%;
+    /* Sets border to bottom only */
+    border-bottom: 10px solid darkblue;
+    border-top: 10px solid darkcyan;
+    background-color: #6932a8;
+  }
+  
+
+body {
+    background-color: #a9664f;
+}
+
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
