@@ -10,39 +10,24 @@ body {
 }
 
 header {
+    justify-content: space-between;
     text-align: center;
-    height: 30px;
-    width: 100%;
     border-bottom: 5px solid darkcyan;
     border-top: 5px solid darkcyan;
     background-color: #6932a8;
+    display: flex;
   }
   
   h1 {
     text-align: center;
-    display: inline-block;
+  
     font-size: 20px;
   }
 
-
-
-.radical {
-    text-align: center; 
-    color: olive;
-    font-size: 24px; width: 20%;
-    margin: 10px auto;
-    
-    border-bottom: 5px solid darkblue;
-    border-bottom-left-radius: 50%;
-    border-bottom-right-radius: 50%;
-    border-top: 5px solid darkblue;
-    border-top-right-radius: 50%;
-    border-top-left-radius: 50%;
-    background-color: #171817;
-    border-left: 5px solid darkblue;
-    border-right: 5px solid darkblue;
-  
+#nav-bar {
+  display: flex;
 }
+
 
  .button {
     color: solid rgb(65, 13, 13);
@@ -53,4 +38,13 @@ header {
     overflow: hidden;
     text-align: left; 
     
+}
+
+#about-photo {
+  width: 50%;
+}
+
+#nav-bar a li {
+  margin-right: 10px;
+  list-style-type: none;
 }
