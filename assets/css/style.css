@@ -25,10 +25,25 @@ footer {
   justify-content: space-between;
   display: flex;
   flex-wrap: wrap;
-
-  
 }
 
+.about-me .cat-photos  {
+  display: flex;
+  text-align: center;
+  /* flex-wrap: wrap;
+  padding: 5px;
+  justify-content: flex-end; */
+}
+
+.cat-photos #ivy{
+  width: 15%;
+  display: flex;
+}
+
+.cat-photos #lilith {
+  width: 15%;
+  display: flex;
+} 
 
 h1 {
   text-align: center;
