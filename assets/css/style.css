@@ -10,11 +10,36 @@ body {
 }
 
 header {
+  color: azure;
   justify-content: space-between;
   text-align: center;
   background-color: #6932a8;
   display: flex;
 }
+
+.cat-photos #self-made {
+  padding: 0%;
+  margin: 5px;
+  border: 5px blueviolet;
+}
+
+.cat-photos  {
+  display: flex;
+  text-align: justify;
+  justify-content: space-between;
+}
+
+.cat-photos #ivy{
+  width: 15%;
+  display: flex;
+}
+
+.cat-photos #lilith {
+  width: 15%;
+  display: flex;
+  padding: 0%;
+  margin:auto white;
+} 
 
 footer {
   text-align: center;
@@ -26,24 +51,10 @@ footer {
   display: flex;
   flex-wrap: wrap;
 }
-
-.about-me .cat-photos  {
-  display: flex;
+.space #work-five {
   text-align: center;
-  /* flex-wrap: wrap;
-  padding: 5px;
-  justify-content: flex-end; */
 }
 
-.cat-photos #ivy{
-  width: 15%;
-  display: flex;
-}
-
-.cat-photos #lilith {
-  width: 15%;
-  display: flex;
-} 
 
 h1 {
   text-align: center;
