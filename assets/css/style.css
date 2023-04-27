@@ -18,6 +18,10 @@ header {
     display: flex;
   }
   
+  .space {
+    justify-content: space-between;
+  }
+
   h1 {
     text-align: center;
   
@@ -29,16 +33,16 @@ header {
 }
 
 
- .button {
+ /* .button { 
     color: solid rgb(65, 13, 13);
     background-color: #6932a8;
     float: right;
     width: 80px;
     height: 200px;
     overflow: hidden;
-    text-align: left; 
+   text-align: left;  */
     
-}
+
 
 #about-photo {
   width: 50%;
@@ -46,5 +50,9 @@ header {
 
 #nav-bar a li {
   margin-right: 10px;
-  list-style-type: none;
+  list-style-type: inline;
+}
+
+#work-one {
+  width: 25%;
 }
