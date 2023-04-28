@@ -1,4 +1,9 @@
 # professional-portfolio
+A personal and professional portfolio that contains one piece of sample work and 4 blank, placeholder images.
+There are personal photos and a description of myself. there are links to contact me at the bottom of the page.
+
+
+
 personal and professional portfolio
 GIVEN I need to sample a potential employee's previous work
 WHEN I load their portfolio
