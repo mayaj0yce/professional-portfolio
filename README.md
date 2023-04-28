@@ -4,6 +4,8 @@ There are personal photos and a description of myself. there are links to contac
 
 file:///C:/Users/mjtha/professional-portfolio/index.html
 
+https://github.com/mayaj0yce/professional-portfolio.git
+
 
 personal and professional portfolio
 GIVEN I need to sample a potential employee's previous work
