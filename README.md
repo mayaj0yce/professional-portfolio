@@ -1,4 +1,15 @@
 # professional-portfolio
+<<<<<<< HEAD
+=======
+A personal and professional portfolio that contains one piece of sample work and 4 blank, placeholder images.
+There are personal photos and a description of myself. there are links to contact me at the bottom of the page.
+
+file:///C:/Users/mjtha/professional-portfolio/index.html
+
+https://github.com/mayaj0yce/professional-portfolio.git
+
+
+>>>>>>> d9b5adc5a9cef34cf71bcdb237393f8c9f222285
 personal and professional portfolio
 GIVEN I need to sample a potential employee's previous work
 WHEN I load their portfolio
