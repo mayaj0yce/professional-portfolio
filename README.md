@@ -2,6 +2,7 @@
 A personal and professional portfolio that contains one piece of sample work and 4 blank, placeholder images.
 There are personal photos and a description of myself. there are links to contact me at the bottom of the page.
 
+file:///C:/Users/mjtha/professional-portfolio/index.html
 
 
 personal and professional portfolio
