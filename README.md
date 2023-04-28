@@ -6,7 +6,7 @@ There are personal photos and a description of myself. there are links to contac
 
 file:///C:/Users/mjtha/professional-portfolio/index.html
 
-https://github.com/mayaj0yce/professional-portfolio.git
+https://mayaj0yce.github.io/professional-portfolio/
 
 
 THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
